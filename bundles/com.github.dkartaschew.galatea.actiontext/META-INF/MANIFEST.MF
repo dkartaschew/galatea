@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: com.github.dkartaschew.galatea.actiontext
+Application-Name: Galatea Action Text Widget Bundle
+Bundle-ManifestVersion: 2
+Bundle-Name: Galatea Action Text Widget
+Bundle-SymbolicName: com.github.dkartaschew.galatea.actiontext;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: com.github.dkartaschew.galatea
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: com.github.dkartaschew.galatea.actiontext
+Require-Bundle: org.eclipse.swt;bundle-version="3.110.0",
+ org.eclipse.osgi,
+ org.eclipse.jface,
+ org.eclipse.core.runtime;bundle-version="3.16.0"
+Bundle-Activator: com.github.dkartaschew.galatea.actiontext.Activator
+Bundle-ActivationPolicy: lazy
+

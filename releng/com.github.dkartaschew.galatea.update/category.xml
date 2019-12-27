@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <bundle id="com.github.dkartaschew.galatea.regex">
+      <category name="com.github.dkartaschew.galatea.update"/>
+   </bundle>
+   <bundle id="com.github.dkartaschew.galatea.actiontext">
+      <category name="com.github.dkartaschew.galatea.update"/>
+   </bundle>
+   <bundle id="com.github.dkartaschew.galatea.memgraph">
+      <category name="com.github.dkartaschew.galatea.update"/>
+   </bundle>
+   <category-def name="com.github.dkartaschew.galatea.update" label="Galatea">
+      <description>
+         Galatea SWT/JFace Widgets
+      </description>
+   </category-def>
+   <repository-reference location="http://download.eclipse.org/nebula/releases/latest" enabled="true" />
+</site>
