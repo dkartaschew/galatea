@@ -4,6 +4,10 @@ Collection of SWT/JFace widgets
 
 License: EPL2 w/ GPL secondary
 
+See: COPYING.txt for full license.
+
+------
+
 Included widgets:
 
 1. Regex Testing widget.
